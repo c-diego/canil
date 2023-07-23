@@ -1,0 +1,30 @@
+{
+  "banner": "https://images2.imgbox.com/7f/4e/6hmfTJCV_o.jpg",
+  "favicon": "https://images2.imgbox.com/33/d0/n7ONSgzz_o.png",
+  "dogs": {
+    "banner": "https://images2.imgbox.com/bd/47/v9AteLwY_o.jpg",
+    "pastorAlemao": "https://images2.imgbox.com/55/da/hg27Vzdh_o.jpg",
+    "labradorRetriever": "https://images2.imgbox.com/69/b4/Zr8L7sKR_o.jpg",
+    "zwergspitz": "https://images2.imgbox.com/d3/6c/Zjx0AAic_o.jpg",
+    "huskySiberiano": "https://images2.imgbox.com/7a/98/FJf4GGvk_o.jpg",
+    "goldenRetriever": "https://images2.imgbox.com/ed/c1/3X1NfVnR_o.jpg",
+    "poodle": "https://images2.imgbox.com/c6/c5/gtBpLeTk_o.jpg",
+    "bulldog": "https://images2.imgbox.com/5c/fe/INpoMC6y_o.jpg"
+  },
+  "cats": {
+    "banner": "https://images2.imgbox.com/f7/85/kZuLSwVw_o.jpg",
+    "persa": "https://images2.imgbox.com/26/d3/1MXpotUo_o.jpg",
+    "maineCoon": "https://images2.imgbox.com/11/68/ouXwdYB8_o.jpg",
+    "bengal": "https://images2.imgbox.com/6a/02/aT869kT5_o.jpg",
+    "siames": "https://images2.imgbox.com/eb/7b/jqdtAbgb_o.jpg",
+    "sphynx": "https://images2.imgbox.com/d5/b6/OixJ4dVO_o.jpg"
+  },
+  "fish": {
+    "banner": "https://images2.imgbox.com/82/6f/ZK6O5aQG_o.jpg",
+    "tetraNeon": "https://images2.imgbox.com/e7/39/m150PKow_o.jpg",
+    "matoGrosso": "https://images2.imgbox.com/5c/29/q5FkPUgQ_o.jpg",
+    "limpaVidro": "https://images2.imgbox.com/0d/c7/lzjlnkip_o.jpg",
+    "tanictis": "https://images2.imgbox.com/32/db/ZKo5tJ8z_o.jpg",
+    "acaraBandeira": "https://images2.imgbox.com/32/c2/2VGcXteD_o.jpg"
+  }
+}
