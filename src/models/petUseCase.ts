@@ -2,7 +2,7 @@ import { Pet } from './pet';
 import { PetType } from './pet';
 import { DATA } from './data';
 
-export const petUseCase = {
+export const PetUseCase = {
 
   getAllPets: (): Pet[] => {
     return DATA;
@@ -13,9 +13,9 @@ export const petUseCase = {
   },
 
   getFromName: (name: string): Pet[] => {
-    return DATA.filter(pet => {
-      pet.name.toLowerCase().indexOf(name.toLowerCase()) > -1;
-    });
+    return DATA.filter(
+      pet => pet.name.toLowerCase().indexOf(name.toLowerCase()) > -1
+    );
   }
 
 };
